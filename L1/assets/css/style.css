@@ -12040,6 +12040,9 @@ ul.dropdown-menu > li.has-dropdown > a:before {
         transition: 0.3s ease-in-out;
         min-height: 356px;
     }
+    .custome-box-height{
+        min-height:initial !important;
+    }
 
 .custom-icon-position {
     align-items: flex-start !important;
@@ -17104,6 +17107,10 @@ ul.dropdown-menu > li.has-dropdown > a:before {
         font-size: 15px;
         line-height: 25px;
         margin-bottom: 0;
+        
+    }
+    .cutome-height p{
+        min-height: 175px;
     }
 
 .project-panel .project-panel-holder .project-content .project-more .btn {
@@ -20090,6 +20097,7 @@ input[type=file]::file-selector-button:hover {
     color: #32c36c;
     font-weight: 500;
 }
-.project-panel-holder{
-    min-height:500px
+
+.project-desc.cutome-height{
+    min-height:275px !important;
 }
