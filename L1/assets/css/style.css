@@ -9798,7 +9798,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
                     line-height: 20px;
                     color: var(--global--color-primary);
                     font-family: var(--global--font-body);
-                    vertical-align: baseline;
+                    vertical-align: middle;
                 }
 
                 .shop-cart .table-wrap .cart-table .table tbody tr td.cart-product-item {
